@@ -1,0 +1,161 @@
+{D:/My Projects/SoC/Simulation2/sys_ctrl.vhd} {1 {vcom -work work -2002 -explicit {D:/My Projects/SoC/Simulation2/sys_ctrl.vhd}
+Model Technology ModelSim DE vcom 6.5e Compiler 2010.02 Feb 26 2010
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package et4351_pkg
+-- Compiling entity sys_ctrl
+-- Compiling architecture arch_sys_ctrl of sys_ctrl
+
+} {} {}} {D:/My Projects/SoC/Simulation2/imem_init.vhd} {1 {vcom -work work -2002 -explicit {D:/My Projects/SoC/Simulation2/imem_init.vhd}
+Model Technology ModelSim DE vcom 6.5e Compiler 2010.02 Feb 26 2010
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package numeric_std
+-- Compiling entity imem
+-- Compiling architecture arch of imem
+
+} {} {}} {D:/My Projects/SoC/Simulation2/clk_div.vhd} {1 {vcom -work work -2002 -explicit {D:/My Projects/SoC/Simulation2/clk_div.vhd}
+Model Technology ModelSim DE vcom 6.5e Compiler 2010.02 Feb 26 2010
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity clk_div
+-- Compiling architecture arch_clk_div of clk_div
+
+} {} {}} {D:/My Projects/SoC/Simulation2/mst_wb_adapter.vhd} {1 {vcom -work work -2002 -explicit {D:/My Projects/SoC/Simulation2/mst_wb_adapter.vhd}
+Model Technology ModelSim DE vcom 6.5e Compiler 2010.02 Feb 26 2010
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package std_logic_arith
+-- Loading package et4351_pkg
+-- Compiling entity mst_wb_adapter
+-- Compiling architecture rtl of mst_wb_adapter
+
+} {} {}} {D:/My Projects/SoC/Simulation2/otsu_Pkg.vhd} {1 {vcom -work work -2002 -explicit {D:/My Projects/SoC/Simulation2/otsu_Pkg.vhd}
+Model Technology ModelSim DE vcom 6.5e Compiler 2010.02 Feb 26 2010
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package numeric_std
+-- Compiling package otsu_pkg
+-- Compiling package body otsu_pkg
+-- Loading package otsu_pkg
+
+} {} {}} {D:/My Projects/SoC/Simulation2/wb_slave_ex32b.vhd} {1 {vcom -work work -2002 -explicit {D:/My Projects/SoC/Simulation2/wb_slave_ex32b.vhd}
+Model Technology ModelSim DE vcom 6.5e Compiler 2010.02 Feb 26 2010
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package et4351_pkg
+-- Loading package wb_slave_pkg
+-- Loading package otsu_pkg
+-- Compiling entity wb_slave_ex32b
+-- Compiling architecture arch_wb_slave_ex32b of wb_slave_ex32b
+
+} {} {}} {D:/My Projects/SoC/Simulation2/wb_mbl1c.vhd} {1 {vcom -work work -2002 -explicit {D:/My Projects/SoC/Simulation2/wb_mbl1c.vhd}
+Model Technology ModelSim DE vcom 6.5e Compiler 2010.02 Feb 26 2010
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package et4351_pkg
+-- Compiling entity wb_mbl1c
+-- Compiling architecture arch_wb_mbl1c of wb_mbl1c
+
+} {} {}} {D:/My Projects/SoC/Simulation2/debouncer.vhd} {1 {vcom -work work -2002 -explicit {D:/My Projects/SoC/Simulation2/debouncer.vhd}
+Model Technology ModelSim DE vcom 6.5e Compiler 2010.02 Feb 26 2010
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Compiling entity debouncer
+-- Compiling architecture arch_debouncer of debouncer
+
+} {} {}} {D:/My Projects/SoC/Simulation2/mbl1c_core.vhd} {1 {vcom -work work -2002 -explicit {D:/My Projects/SoC/Simulation2/mbl1c_core.vhd}
+Model Technology ModelSim DE vcom 6.5e Compiler 2010.02 Feb 26 2010
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package numeric_std
+-- Loading package et4351_pkg
+-- Compiling entity mbl1c_core
+-- Compiling architecture rtl of mbl1c_core
+
+} {} {}} {D:/My Projects/SoC/Simulation2/BinIO_pkg.vhd} {1 {vcom -work work -2002 -explicit {D:/My Projects/SoC/Simulation2/BinIO_pkg.vhd}
+Model Technology ModelSim DE vcom 6.5e Compiler 2010.02 Feb 26 2010
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling package binio_pkg
+-- Compiling package body binio_pkg
+-- Loading package binio_pkg
+
+} {} {}} {D:/My Projects/SoC/Simulation2/address_decoder.vhd} {1 {vcom -work work -2002 -explicit {D:/My Projects/SoC/Simulation2/address_decoder.vhd}
+Model Technology ModelSim DE vcom 6.5e Compiler 2010.02 Feb 26 2010
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Loading package std_logic_arith
+-- Loading package et4351_pkg
+-- Compiling entity address_decoder
+-- Compiling architecture rtl of address_decoder
+
+} {} {}} {D:/My Projects/SoC/Simulation2/wb_slave_Pkg.vhd} {1 {vcom -work work -2002 -explicit {D:/My Projects/SoC/Simulation2/wb_slave_Pkg.vhd}
+Model Technology ModelSim DE vcom 6.5e Compiler 2010.02 Feb 26 2010
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package et4351_pkg
+-- Compiling package wb_slave_pkg
+
+} {} {}} {D:/My Projects/SoC/Simulation2/wb_soc.vhd} {1 {vcom -work work -2002 -explicit {D:/My Projects/SoC/Simulation2/wb_soc.vhd}
+Model Technology ModelSim DE vcom 6.5e Compiler 2010.02 Feb 26 2010
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package et4351_pkg
+-- Loading package wb_slave_pkg
+-- Compiling entity wb_soc
+-- Compiling architecture arch of wb_soc
+
+} {} {}} {D:/My Projects/SoC/Simulation2/dmem_init.vhd} {1 {vcom -work work -2002 -explicit {D:/My Projects/SoC/Simulation2/dmem_init.vhd}
+Model Technology ModelSim DE vcom 6.5e Compiler 2010.02 Feb 26 2010
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package numeric_std
+-- Compiling entity dmem4
+-- Compiling architecture arch of dmem4
+
+} {} {}} {D:/My Projects/SoC/Simulation2/ET4351_Pkg.vhd} {1 {vcom -work work -2002 -explicit {D:/My Projects/SoC/Simulation2/ET4351_Pkg.vhd}
+Model Technology ModelSim DE vcom 6.5e Compiler 2010.02 Feb 26 2010
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling package et4351_pkg
+
+} {} {}} D:/Dropbox/giorgos/FINAL2/SoC/tb_msim/tb_wb_soc.vhd {1 {vcom -work work -2002 -explicit D:/Dropbox/giorgos/FINAL2/SoC/tb_msim/tb_wb_soc.vhd
+Model Technology ModelSim DE vcom 6.5e Compiler 2010.02 Feb 26 2010
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package std_logic_unsigned
+-- Loading package numeric_std
+-- Loading package et4351_pkg
+-- Loading package binio_pkg
+-- Compiling entity tb_wb_soc
+-- Compiling architecture tb_arch of tb_wb_soc
+
+} {} {}}

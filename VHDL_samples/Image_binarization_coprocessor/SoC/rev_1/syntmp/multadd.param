@@ -1,0 +1,16 @@
+top DSP48E
+parameter ACASCREG 0;
+parameter ALUMODEREG 0;
+parameter AREG 0;
+parameter BREG 0;
+parameter BCASCREG 0;
+parameter CREG 0;
+parameter PREG 0;
+parameter MREG 0;
+parameter OPMODEREG 0;
+parameter CARRYINSELREG 0;
+parameter CARRYINREG 0;
+parameter B_INPUT "DIRECT";
+parameter A_INPUT "DIRECT";
+parameter USE_MULT "MULT";
+parameter USE_SIMD "ONE48";

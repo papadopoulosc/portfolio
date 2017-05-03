@@ -1,0 +1,212 @@
+Selecting top level module DSP48E
+@N: CG364 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":830:7:830:12|Synthesizing module DSP48E
+
+@W: CG532 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1114:4:1114:10|Initial statement will only initialize memories through the usage of $readmemh and $readmemb. Everything else is ignored
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1246:21:1246:28|System task $display is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1247:14:1247:20|System task $finish is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1278:19:1278:26|System task $display is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1279:19:1279:25|System task $finish is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1303:21:1303:28|System task $display is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1304:14:1304:20|System task $finish is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1335:19:1335:26|System task $display is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1336:19:1336:25|System task $finish is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1367:19:1367:26|System task $display is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1368:19:1368:25|System task $finish is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1402:19:1402:26|System task $display is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1403:19:1403:25|System task $finish is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1480:19:1480:26|System task $display is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1481:19:1481:25|System task $finish is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1494:7:1494:14|System task $display is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1502:3:1502:10|System task $display is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1512:19:1512:26|System task $display is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1513:19:1513:25|System task $finish is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1534:19:1534:26|System task $display is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1535:19:1535:25|System task $finish is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1632:24:1632:31|System task $display is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1633:24:1633:30|System task $finish is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1711:24:1711:31|System task $display is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1712:24:1712:30|System task $finish is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1790:24:1790:31|System task $display is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1791:24:1791:30|System task $finish is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1868:24:1868:31|System task $display is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1869:24:1869:30|System task $finish is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1966:20:1966:27|System task $display is not supported yet
+@W: CG296 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1554:13:1554:96|Incomplete sensitivity list - assuming completeness
+@W: CG290 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1555:5:1555:21|Referenced variable opmode_valid_flag is not in sensitivity list
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":2045:19:2045:26|System task $display is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":2046:19:2046:25|System task $finish is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":2064:19:2064:26|System task $display is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":2065:19:2065:25|System task $finish is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":2180:19:2180:26|System task $display is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":2181:19:2181:25|System task $finish is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":2199:25:2199:32|System task $display is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":2200:25:2200:31|System task $finish is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":2211:32:2211:39|System task $display is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":2212:32:2212:38|System task $finish is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":2218:25:2218:32|System task $display is not supported yet
+@N: CG512 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":2219:25:2219:31|System task $finish is not supported yet
+@W: CG133 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":963:24:963:37|No assignment to qcarryin_o_reg
+@W: CG133 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":967:8:967:21|No assignment to invalid_opmode
+@W: CG133 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":974:26:974:37|No assignment to alu_hlf1_tmp
+@W: CG133 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":974:40:974:51|No assignment to alu_hlf2_tmp
+@W: CG133 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":975:26:975:37|No assignment to alu_qrt1_tmp
+@W: CG133 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":975:41:975:52|No assignment to alu_qrt2_tmp
+@W: CG133 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":975:55:975:66|No assignment to alu_qrt3_tmp
+@W: CG133 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":975:69:975:80|No assignment to alu_qrt4_tmp
+@W: CG360 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":984:21:984:30|No assignment to wire detb_o_mux
+
+@W: CL169 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":2240:4:2240:9|Pruning Register pdet_o_reg1 
+
+@W: CL169 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":2240:4:2240:9|Pruning Register pdet_o_reg2 
+
+@W: CL169 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":2240:4:2240:9|Pruning Register pdetb_o_reg1 
+
+@W: CL169 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":2240:4:2240:9|Pruning Register pdetb_o_reg2 
+
+@W: CL169 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":2158:4:2158:9|Pruning Register qp_o_reg1[47:0] 
+
+@W: CL169 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":2158:4:2158:9|Pruning Register qmultsignout_o_reg 
+
+@W: CL169 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":2089:4:2089:9|Pruning Register carrycascout_o_reg 
+
+@W: CL169 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":2089:4:2089:9|Pruning Register carryout_o_reg[3:0] 
+
+@W: CL169 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":2033:4:2033:9|Pruning Register qcarryin_o_reg0 
+
+@W: CL169 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1521:4:1521:9|Pruning Register qalumode_o_reg1[3:0] 
+
+@W: CL169 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1463:4:1463:9|Pruning Register qcarryinsel_o_reg1[2:0] 
+
+@W: CL169 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1463:4:1463:9|Pruning Register qopmode_o_reg1[6:0] 
+
+@W: CL169 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1388:4:1388:9|Pruning Register qmult_o_reg[42:0] 
+
+@W: CL169 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1355:4:1355:9|Pruning Register qc_o_reg1[47:0] 
+
+@W: CL169 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1309:4:1309:9|Pruning Register qb_o_reg1[17:0] 
+
+@W: CL169 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1309:4:1309:9|Pruning Register qb_o_reg2[17:0] 
+
+@W: CL169 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1252:4:1252:9|Pruning Register qa_o_reg1[29:0] 
+
+@W: CL169 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1252:4:1252:9|Pruning Register qa_o_reg2[29:0] 
+
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[47]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[46]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[45]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[44]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[43]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[42]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[41]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[40]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[39]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[38]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[37]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[36]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[35]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[34]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[33]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[32]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[31]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[30]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[29]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[28]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[27]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[26]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[25]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[24]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[23]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[22]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[21]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[20]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[19]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[18]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[17]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[16]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[15]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[14]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[13]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[12]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[11]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[10]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[9]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[8]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[7]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[6]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[5]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[4]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[3]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[2]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[1]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1445:1:1445:4|Found combinational loop at qz_o_mux[0]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[0]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[47]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[46]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[45]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[44]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[43]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[42]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[41]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[40]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[39]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[38]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[37]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[36]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[35]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[34]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[33]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[32]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[31]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[30]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[29]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[28]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[27]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[26]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[25]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[24]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[23]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[22]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[21]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[20]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[19]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[18]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[17]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[16]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[15]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[14]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[13]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[12]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[11]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[10]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[9]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[8]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[7]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[6]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[5]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[4]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[3]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[2]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1557:11:1557:15|Found combinational loop at alu_o[1]
+@W: CL180 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":2072:1:2072:4|Found combinational loop at qcarryin_o_mux
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1566:44:1566:80|Found combinational loop at un3_alu_full_tmp[0]
+@W: CL179 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1802:25:1802:74|Found combinational loop at un41_alu_full_tmp[48]
+@W: CL181 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":1012:8:1012:18|Found combinational loop
+@W: CL159 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":870:17:870:20|Input ACIN is unused
+@W: CL159 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":873:17:873:20|Input BCIN is unused
+@W: CL159 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":878:10:878:13|Input CEA1 is unused
+@W: CL159 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":879:10:879:13|Input CEA2 is unused
+@W: CL159 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":880:10:880:18|Input CEALUMODE is unused
+@W: CL159 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":881:10:881:13|Input CEB1 is unused
+@W: CL159 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":882:10:882:13|Input CEB2 is unused
+@W: CL159 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":883:10:883:12|Input CEC is unused
+@W: CL159 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":884:10:884:18|Input CECARRYIN is unused
+@W: CL159 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":885:10:885:15|Input CECTRL is unused
+@W: CL159 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":886:10:886:12|Input CEM is unused
+@W: CL159 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":888:10:888:12|Input CEP is unused
+@W: CL159 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":893:10:893:13|Input RSTA is unused
+@W: CL159 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":895:10:895:19|Input RSTALUMODE is unused
+@W: CL159 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":896:10:896:13|Input RSTB is unused
+@W: CL159 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":897:10:897:13|Input RSTC is unused
+@W: CL159 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":898:10:898:16|Input RSTCTRL is unused
+@W: CL159 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":899:10:899:13|Input RSTM is unused
+@W: CL159 :"D:\My Projects\SoC\Simulation2\rev_1\syntmp\multadd.v":900:10:900:13|Input RSTP is unused

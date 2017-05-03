@@ -1,0 +1,81 @@
+#-- Synplicity, Inc.
+#-- Version 9.4
+#-- Project file D:\My Projects\SoC\Simulation2\rev_1\run_options.txt
+#-- Written on Fri Mar 07 21:40:58 2014
+
+
+#add_file options
+add_file -vhdl -lib work "./otsu_Pkg.vhd"
+add_file -vhdl -lib work "./otsu2.vhd"
+
+
+#implementation: "rev_1"
+impl -add rev_1 -type fpga
+
+#device options
+set_option -technology VIRTEX5
+set_option -part XC5VLX30
+set_option -package FF324
+set_option -speed_grade -1
+set_option -part_companion ""
+
+#compilation/mapping options
+set_option -default_enum_encoding default
+set_option -resource_sharing 1
+set_option -use_fsm_explorer 0
+
+#map options
+set_option -frequency auto
+set_option -vendor_xcompatible_mode 0
+set_option -vendor_xcompatible_mode 0
+set_option -run_prop_extract 1
+set_option -fanout_limit 10000
+set_option -disable_io_insertion 0
+set_option -pipe 1
+set_option -update_models_cp 0
+set_option -enable_prepacking 0
+set_option -verification_mode 0
+set_option -retiming 1
+set_option -no_sequential_opt 0
+set_option -fixgatedclocks 3
+set_option -fixgeneratedclocks 3
+set_option -hier_report 1
+set_option -island_num_paths 10
+set_option -island_global_range 0.5
+set_option -island_group_range 0.5
+
+
+#sequential_optimizations options
+set_option -symbolic_fsm_compiler 1
+
+#netlist optimizer options
+set_option -enable_nfilter 0
+set_option -feedthrough 0
+set_option -constant_prop 0
+set_option -level_hierarchy 0
+
+#simulation options
+set_option -write_verilog 0
+set_option -write_vhdl 0
+
+#VIF options
+set_option -write_vif 1
+
+#automatic place and route (vendor) options
+set_option -write_apr_constraint 1
+
+#set result format/file last
+project -result_file "./rev_1/otsu2.edf"
+
+#
+#implementation attributes
+
+set_option -vlog_std v2001
+set_option -project_relative_includes 1
+
+#par_1 attributes
+set_option -job par_1 -add par
+
+#design plan options
+set_option -nfilter_user_path ""
+impl -active "rev_1"

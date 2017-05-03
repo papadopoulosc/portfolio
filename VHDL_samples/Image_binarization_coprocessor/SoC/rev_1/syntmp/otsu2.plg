@@ -1,0 +1,12 @@
+@P:  Worst Slack : -7.094
+@P:  otsu|clk - Estimated Frequency : 24.0 MHz
+@P:  otsu|clk - Requested Frequency : 29.0 MHz
+@P:  otsu|clk - Estimated Period : 41.632
+@P:  otsu|clk - Requested Period : 34.538
+@P:  otsu|clk - Slack : -7.094
+@P: otsu Part : xc5vlx30ff324-1
+@P: otsu I/O primitives : 530
+@P: otsu I/O Register bits : 0
+@P: otsu Register bits (Non I/O) : 1953 (10%)
+@P: otsu Total Luts : 9503 (49%)
+@P:  CPU Time : 0h:03m:04s

@@ -1,0 +1,27 @@
+#Build: Synplify Premier 9.4, Build 183R, Jun 30 2008
+#install: C:\Program Files (x86)\Synplicity\fpga_94
+#OS:  6.1
+#Hostname: MA1NFR4M3-PC
+
+#Implementation: rev_1
+
+#Fri Mar 07 21:27:00 2014
+
+$ Start of Compile
+#Fri Mar 07 21:27:00 2014
+
+Synplicity VHDL Compiler, version 1.0, Build 061R, built Jun 30 2008
+Copyright (C) 1994-2008, Synplicity Inc.  All Rights Reserved
+
+@N: CD720 :"C:\Program Files (x86)\Synplicity\fpga_94\lib\vhd\std.vhd":123:18:123:21|Setting time resolution to ns
+@N:"D:\My Projects\SoC\Simulation2\otsu2.vhd":10:7:10:10|Top entity is set to otsu.
+@W: CD643 :"D:\My Projects\SoC\Simulation2\otsu2.vhd":8:21:8:21|Ignoring use clause - otsu_pkg not found ...
+@E: CD498 :"D:\My Projects\SoC\Simulation2\otsu2.vhd":15:19:15:30|Expecting type name
+@E: CD213 :"D:\My Projects\SoC\Simulation2\otsu2.vhd":26:1:26:5|Undefined identifier
+2 errors parsing file D:\My Projects\SoC\Simulation2\otsu2.vhd
+@END
+@E|Parse errors encountered - exiting
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Fri Mar 07 21:27:00 2014
+
+###########################################################]

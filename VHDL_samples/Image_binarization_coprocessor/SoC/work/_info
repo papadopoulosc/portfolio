@@ -1,0 +1,588 @@
+m255
+K3
+13
+cModel Technology
+dD:\My Projects\SoC\Simulation
+Eaddress_decoder
+Z0 w1392930299
+Z1 DPx4 ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z2 DPx4 work 10 et4351_pkg 0 22 VlB;XbYXgZXh3AN0H00562
+Z3 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z5 dD:\My Projects\SoC\Simulation2
+Z6 8D:/My Projects/SoC/Simulation2/address_decoder.vhd
+Z7 FD:/My Projects/SoC/Simulation2/address_decoder.vhd
+l0
+L21
+VZCH<ojjFUZSYO@dAlE^IS3
+Z8 OP;C;6.5e;42
+32
+Z9 o-work work -2002 -explicit
+Z10 tExplicit 1
+!s100 BzmPW<gDg`eTHV2cL<4Wi1
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 15 address_decoder 0 22 ZCH<ojjFUZSYO@dAlE^IS3
+l62
+L36
+VVETJFc>CG6djNH^TzNl_n0
+R8
+32
+Z11 Mx4 4 ieee 14 std_logic_1164
+Z12 Mx3 4 ieee 11 numeric_std
+Z13 Mx2 4 work 10 et4351_pkg
+Z14 Mx1 4 ieee 15 std_logic_arith
+R9
+R10
+!s100 k_SK8W;5<M@I<[fjnUc<43
+Pbinio_pkg
+R1
+R4
+Z15 w1392930299
+R5
+Z16 8D:/My Projects/SoC/Simulation2/BinIO_pkg.vhd
+Z17 FD:/My Projects/SoC/Simulation2/BinIO_pkg.vhd
+l0
+L32
+VZBej950kfDahj5=2[9O`_3
+R8
+32
+b1
+Z18 Mx2 4 ieee 14 std_logic_1164
+R14
+R9
+R10
+!s100 2U7BUl?XJBlkEEG66dU;j2
+Bbody
+DBx4 work 9 binio_pkg 0 22 ZBej950kfDahj5=2[9O`_3
+R1
+R4
+l0
+L80
+VgVD56TFIHH_`BDc5=<a6^3
+R8
+32
+R18
+R14
+R9
+R10
+nbody
+!s100 1TOjT^cj>n3>dzJ1jW_YK1
+Eclk_div
+R15
+Z19 DPx4 ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
+R1
+R4
+R5
+Z20 8D:/My Projects/SoC/Simulation2/clk_div.vhd
+Z21 FD:/My Projects/SoC/Simulation2/clk_div.vhd
+l0
+L31
+V[jAD^YZk;X4f3<>U>d3cg1
+R8
+32
+R9
+R10
+!s100 0Rj1DAe5@iA3lXlikLDVY3
+Aarch_clk_div
+R19
+R1
+R4
+DEx4 work 7 clk_div 0 22 [jAD^YZk;X4f3<>U>d3cg1
+l51
+L45
+V@S6@beOH`HO3f;2_C:SW^1
+R8
+32
+Z22 Mx3 4 ieee 14 std_logic_1164
+Z23 Mx2 4 ieee 15 std_logic_arith
+Z24 Mx1 4 ieee 18 std_logic_unsigned
+R9
+R10
+!s100 1Yl4m94G94B<VZH25kW?m2
+Edebouncer
+R15
+R19
+R1
+R4
+R5
+Z25 8D:/My Projects/SoC/Simulation2/debouncer.vhd
+Z26 FD:/My Projects/SoC/Simulation2/debouncer.vhd
+l0
+L34
+VPH;jh67:XOYWXG:W^]0oV2
+R8
+32
+R9
+R10
+!s100 =LceKEbU]N<8HO059Oak93
+Aarch_debouncer
+R19
+R1
+R4
+DEx4 work 9 debouncer 0 22 PH;jh67:XOYWXG:W^]0oV2
+l55
+L48
+VOFFiT[8`LfeO_RcQQ8hNQ1
+R8
+32
+R22
+R23
+R24
+R9
+R10
+!s100 U[8;I`l[;?8n`iRU79hIH1
+Edmem4
+R15
+R3
+R1
+R19
+R4
+R5
+Z27 8D:/My Projects/SoC/Simulation2/dmem_init.vhd
+Z28 FD:/My Projects/SoC/Simulation2/dmem_init.vhd
+l0
+L19
+Vm9`DEYl849DiVn9lMfPGU1
+R8
+32
+R9
+R10
+!s100 b<X]gf<BOF8b`gmAbQS?<3
+Aarch
+R3
+R1
+R19
+R4
+DEx4 work 5 dmem4 0 22 m9`DEYl849DiVn9lMfPGU1
+l2100
+L35
+VIBk4bcJ90WW;7HoLSDzSg0
+R8
+32
+R11
+Z29 Mx3 4 ieee 18 std_logic_unsigned
+R23
+Z30 Mx1 4 ieee 11 numeric_std
+R9
+R10
+!s100 S_:bW_YJ`hU3eRD]=Xgi91
+Pet4351_pkg
+R1
+R4
+R15
+R5
+8D:/My Projects/SoC/Simulation2/ET4351_Pkg.vhd
+FD:/My Projects/SoC/Simulation2/ET4351_Pkg.vhd
+l0
+L18
+VVlB;XbYXgZXh3AN0H00562
+R8
+32
+R18
+R14
+R9
+R10
+!s100 ]TMSL=>IGVWABM;HPSGTk1
+Eimem
+R15
+R3
+R1
+R19
+R4
+R5
+Z31 8D:/My Projects/SoC/Simulation2/imem_init.vhd
+Z32 FD:/My Projects/SoC/Simulation2/imem_init.vhd
+l0
+L19
+Vf9aV[P2g:i;c0kcJF9Bha3
+R8
+32
+R9
+R10
+!s100 >lWD:G>dmbhGcDUH`P1bB0
+Aarch
+R3
+R1
+R19
+R4
+DEx4 work 4 imem 0 22 f9aV[P2g:i;c0kcJF9Bha3
+l549
+L31
+VBoRTSOHg;Pig:NG>Co<J_2
+R8
+32
+R11
+R29
+R23
+R30
+R9
+R10
+!s100 ^XGXWTC4LLkTLY?HBSNI[0
+Embl1c_core
+R15
+R2
+R3
+R1
+R19
+R4
+R5
+Z33 8D:/My Projects/SoC/Simulation2/mbl1c_core.vhd
+Z34 FD:/My Projects/SoC/Simulation2/mbl1c_core.vhd
+l0
+L21
+V>IDnS4e?@_PR]F8m2LMML2
+R8
+32
+R9
+R10
+!s100 0iVY5cWH0gNzERWj6MHHE0
+Artl
+R2
+R3
+R1
+R19
+R4
+DEx4 work 10 mbl1c_core 0 22 >IDnS4e?@_PR]F8m2LMML2
+l93
+L46
+V;LFi6j@5F2>k[n[B3][Q:3
+R8
+32
+Z35 Mx5 4 ieee 14 std_logic_1164
+Z36 Mx4 4 ieee 18 std_logic_unsigned
+Z37 Mx3 4 ieee 15 std_logic_arith
+Z38 Mx2 4 ieee 11 numeric_std
+Z39 Mx1 4 work 10 et4351_pkg
+R9
+R10
+!s100 c?YgMm@Q<AYZS9MX5kA;l0
+Emst_wb_adapter
+R15
+R1
+R2
+R3
+R4
+R5
+Z40 8D:/My Projects/SoC/Simulation2/mst_wb_adapter.vhd
+Z41 FD:/My Projects/SoC/Simulation2/mst_wb_adapter.vhd
+l0
+L21
+VSi4:CiJHH<5PcG49Nf:n^0
+R8
+32
+R9
+R10
+!s100 ^HQCBn^Se2JS:Fj`L1Z?>3
+Artl
+R1
+R2
+R3
+R4
+DEx4 work 14 mst_wb_adapter 0 22 Si4:CiJHH<5PcG49Nf:n^0
+l38
+L33
+V]U6B<6?l8<AMjl[CWAV8m2
+R8
+32
+R11
+R12
+R13
+R14
+R9
+R10
+!s100 ::<O2ZXi=U7UQIgeb8lJ>1
+Eotsu
+Z42 w1394220509
+Z43 DPx4 work 8 otsu_pkg 0 22 >ILB>L_52g?b>jR[@Aoln0
+R3
+R1
+R19
+R4
+R5
+Z44 8D:/My Projects/SoC/Simulation2/otsu2.vhd
+Z45 FD:/My Projects/SoC/Simulation2/otsu2.vhd
+l0
+L10
+VhV38U>W6XPEPQz0S;H9=92
+R8
+32
+R9
+R10
+!s100 R=fimGEW[hLCaa>Q9V<]b0
+Abehavioral
+R43
+R3
+R1
+R19
+R4
+DEx4 work 4 otsu 0 22 hV38U>W6XPEPQz0S;H9=92
+l23
+L19
+VTjd[U6FYi>az??m_S9BTk0
+R8
+32
+R35
+R36
+R37
+R38
+Z46 Mx1 4 work 8 otsu_pkg
+R9
+R10
+!s100 =QVN^kXDW^z1R=I9n439i2
+Potsu_pkg
+R3
+R1
+R19
+R4
+R15
+R5
+Z47 8D:/My Projects/SoC/Simulation2/otsu_Pkg.vhd
+Z48 FD:/My Projects/SoC/Simulation2/otsu_Pkg.vhd
+l0
+L7
+V>ILB>L_52g?b>jR[@Aoln0
+R8
+32
+b1
+R11
+R29
+R23
+R30
+R9
+R10
+!s100 ^[he?BbF30nHa:2Wd2FcT1
+Bbody
+DBx4 work 8 otsu_pkg 0 22 >ILB>L_52g?b>jR[@Aoln0
+R3
+R1
+R19
+R4
+l0
+L13
+VQoMVU_=PYe5g:d5<Coa@`1
+R8
+32
+R11
+R29
+R23
+R30
+R9
+R10
+nbody
+!s100 ^zIN<@<J^CGo`Ao;Klkzb2
+Esys_ctrl
+R15
+R2
+R19
+R1
+R4
+R5
+Z49 8D:/My Projects/SoC/Simulation2/sys_ctrl.vhd
+Z50 FD:/My Projects/SoC/Simulation2/sys_ctrl.vhd
+l0
+L28
+VU:YPG4?Ofh?7<naSYbga73
+R8
+32
+R9
+R10
+!s100 T45[cRc<VeVJDBT=RPE790
+Aarch_sys_ctrl
+R2
+R19
+R1
+R4
+DEx4 work 8 sys_ctrl 0 22 U:YPG4?Ofh?7<naSYbga73
+l58
+L49
+V2^HLzdi2gAick@4RH:J?_0
+R8
+32
+R11
+R37
+Mx2 4 ieee 18 std_logic_unsigned
+R39
+R9
+R10
+!s100 F]hUcTd^=zPR2bI7JCmn@3
+Etb_wb_soc
+R15
+Z51 DPx4 work 9 binio_pkg 0 22 ZBej950kfDahj5=2[9O`_3
+R2
+R3
+R1
+R19
+R4
+R5
+Z52 8D:/Dropbox/giorgos/FINAL2/SoC/tb_msim/tb_wb_soc.vhd
+Z53 FD:/Dropbox/giorgos/FINAL2/SoC/tb_msim/tb_wb_soc.vhd
+l0
+L10
+VK<]GR:;9IScP[@3GTGl5N3
+!s100 DZ_4e:7T8]QEZ1gPE42]l3
+R8
+32
+R9
+R10
+Atb_arch
+R51
+R2
+R3
+R1
+R19
+R4
+Z54 DEx4 work 9 tb_wb_soc 0 22 K<]GR:;9IScP[@3GTGl5N3
+l87
+L31
+Z55 Va2gC[dl69Z`lbjFknV<9T1
+Z56 !s100 <2kKAD0Oa@DHSK==l826g1
+R8
+32
+Z57 Mx6 4 ieee 14 std_logic_1164
+Z58 Mx5 4 ieee 18 std_logic_unsigned
+Z59 Mx4 4 ieee 15 std_logic_arith
+R12
+R13
+Z60 Mx1 4 work 9 binio_pkg
+R9
+R10
+Ewb_mbl1c
+R15
+R2
+R1
+R19
+R4
+R5
+Z61 8D:/My Projects/SoC/Simulation2/wb_mbl1c.vhd
+Z62 FD:/My Projects/SoC/Simulation2/wb_mbl1c.vhd
+l0
+L6
+V@6PkdGZeQ]8UHAb6aD;ck3
+R8
+32
+R9
+R10
+!s100 G1lIYPeYS;GbbEm46caUg0
+Aarch_wb_mbl1c
+R2
+R1
+R19
+R4
+DEx4 work 8 wb_mbl1c 0 22 @6PkdGZeQ]8UHAb6aD;ck3
+l43
+L30
+VzRolVb:I4AGBJ6U@CeS@L3
+R8
+32
+R11
+R29
+R23
+R39
+R9
+R10
+!s100 7ij8[zEY51laFT9DRJDZi2
+Ewb_slave_ex32b
+R15
+R43
+Z63 DPx4 work 12 wb_slave_pkg 0 22 J<;7]L3kkl>G?1NHX;L>72
+R2
+R1
+R19
+R3
+R4
+R5
+Z64 8D:/My Projects/SoC/Simulation2/wb_slave_ex32b.vhd
+Z65 FD:/My Projects/SoC/Simulation2/wb_slave_ex32b.vhd
+l0
+L9
+V]`c0A_@:`K:M4fGi5N[6?1
+R8
+32
+R9
+R10
+!s100 RbNoR?G<FG?gO@nWjo8fm3
+Aarch_wb_slave_ex32b
+R43
+R63
+R2
+R1
+R19
+R3
+R4
+DEx4 work 14 wb_slave_ex32b 0 22 ]`c0A_@:`K:M4fGi5N[6?1
+l111
+L24
+V47H^6S9MTbz2T7XZU4TOb1
+R8
+32
+Mx7 4 ieee 14 std_logic_1164
+Mx6 4 ieee 11 numeric_std
+R58
+R59
+Mx3 4 work 10 et4351_pkg
+Mx2 4 work 12 wb_slave_pkg
+R46
+R9
+R10
+!s100 :XYfQkhEjYGCNoFzQAn>91
+Pwb_slave_pkg
+R1
+R2
+R4
+R15
+R5
+8D:/My Projects/SoC/Simulation2/wb_slave_Pkg.vhd
+FD:/My Projects/SoC/Simulation2/wb_slave_Pkg.vhd
+l0
+L5
+VJ<;7]L3kkl>G?1NHX;L>72
+R8
+32
+R22
+R13
+R14
+R9
+R10
+!s100 YEhO^7MD]@C]YGoD5Jki30
+Ewb_soc
+R15
+R63
+R2
+R1
+R4
+R19
+R5
+Z66 8D:/My Projects/SoC/Simulation2/wb_soc.vhd
+Z67 FD:/My Projects/SoC/Simulation2/wb_soc.vhd
+l0
+L8
+V:CT=g4?n39H0nCd31PVVd0
+R8
+32
+R9
+R10
+!s100 I_:4_56OG06:0Vf0FRffX0
+Aarch
+R63
+R2
+R1
+R4
+R19
+DEx4 work 6 wb_soc 0 22 :CT=g4?n39H0nCd31PVVd0
+l101
+L40
+VbQ50]cN]T[j7:SidO1;8R1
+!s100 mTz?h=^0DkbBmIUSSYFQ93
+R8
+32
+R58
+R11
+R37
+R13
+Mx1 4 work 12 wb_slave_pkg
+R9
+R10

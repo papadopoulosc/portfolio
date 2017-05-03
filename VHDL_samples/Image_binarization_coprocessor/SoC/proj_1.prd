@@ -1,0 +1,13 @@
+#-- Synplicity, Inc.
+#-- Version 9.4
+#-- Project file D:\My Projects\SoC\Simulation2\proj_1.prd
+#-- Written on Fri Mar 07 22:03:37 2014
+
+#
+### Watch Implementation type ###
+#
+watch_impl -all
+#
+### Watch Implementation properties ###
+#
+watch_prop -clear

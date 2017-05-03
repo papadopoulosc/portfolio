@@ -1,0 +1,14 @@
+Synplicity Xilinx Technology Mapper, Version 9.4.0, Build 086R, Built Jul 11 2008 20:49:49
+Copyright (C) 1994-2008, Synplicity Inc.  All Rights Reserved
+Product Version Version 9.4
+@N: MF249 |Running in 32-bit mode.
+@N: MF257 |Gated clock conversion enabled 
+Reading Xilinx I/O pad type table from file <C:\Program Files (x86)\Synplicity\fpga_94\lib\xilinx\x_io_tbl.txt> 
+Reading Xilinx Rocket I/O parameter type table from file <C:\Program Files (x86)\Synplicity\fpga_94\lib\xilinx\gttype.txt> 
+@W: FX474 |User specified initial value found in some of the sequential elements in the design. Applying an initial value to a register may not deliver the best synthesis results. For example, registers with initial values may be preserved and retiming/pipelining may not be performed. To improve synthesis results you may want to remove the register initialization from the RTL code 
+
+@N: BN225 |Writing default property annotation file D:\My Projects\SoC\Simulation2\rev_1\otsu2.sap.
+Process took 0h:00m:01s realtime, 0h:00m:01s cputime
+# Fri Mar 07 21:40:59 2014
+
+###########################################################]

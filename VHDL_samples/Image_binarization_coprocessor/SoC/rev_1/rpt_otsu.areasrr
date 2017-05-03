@@ -1,0 +1,722 @@
+#### START OF AREA REPORT #####[
+
+Part:			XC5VLX30FF324-1 (Xilinx)
+
+--------------------------------------------------------------------
+########   Utilization report for  Top level view:   otsu   ########
+====================================================================
+
+SEQUENTIAL ELEMENTS
+*******************
+
+Name          Total elements     Utilization     Notes
+------------------------------------------------------
+REGISTERS     1953               100 %                
+LATCHES       0                  0.0 %                
+======================================================
+Total SEQUENTIAL ELEMENTS in the block otsu:	1953 (5.61 % Utilization)
+
+
+COMBINATIONAL LOGIC
+*******************
+
+Name      Total elements     Utilization     Notes
+--------------------------------------------------
+LUTS      9503               100 %                
+MUXCY     7908               100 %                
+XORCY     7720               100 %                
+DSP48     32                 100 %                
+SRL16     0                  0.0 %                
+==================================================
+Total COMBINATIONAL LOGIC in the block otsu:	25163 (72.28 % Utilization)
+
+
+MEMORY ELEMENTS
+***************
+
+Name          Total elements     Utilization     Notes
+------------------------------------------------------
+SYNC RAMS     0                  0.0 %                
+======================================================
+Total MEMORY ELEMENTS in the block otsu:	0 (0.00 % Utilization)
+
+
+
+
+
+Name     Total elements     Number of bits     Utilization     Notes
+--------------------------------------------------------------------
+                                                                    
+ROMS     0                  0                  0.0 %                
+====================================================================
+Total  in the block otsu:	0 (0.00 % Utilization)
+
+
+Distributed RAM
+***************
+
+Name                Total elements     Number of LUTs     Utilization     Notes
+-------------------------------------------------------------------------------
+DISTRIBUTED RAM     0                  0                  0.0 %                
+===============================================================================
+Total Distributed RAM in the block otsu:	0 (0.00 % Utilization)
+
+
+IO PADS
+*******
+
+Name     Total elements     Utilization     Notes
+-------------------------------------------------
+PADS     531                100 %                
+=================================================
+Total IO PADS in the block otsu:	531 (1.53 % Utilization)
+
+#### START OF DETAILED DSP REPORT ####
+
+Total DSPs: 32
+
+"d:\my projects\soc\simulation2\otsu2.vhd":69:14:69:31|main.un5_between_5[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			CASCADE
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":69:14:69:31|main.un5_between_6[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":69:14:69:43|main.max_1_26[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":69:14:69:43|main.max_1_27[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":69:14:69:31|main.un5_between_4[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":69:14:69:43|main.max_1_25[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":69:14:69:43|main.max_3_32[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":69:14:69:43|main.max_3_33[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":69:14:69:31|main.un15_between_20[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":69:14:69:31|main.un15_between_18[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":69:14:69:43|main.max_3_34[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":69:14:69:31|main.un15_between_19[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":69:14:69:20|main.un4_between_12[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			CASCADE
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":69:14:69:20|main.un4_between_13[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":69:14:69:20|main.un4_between_11[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":66:18:66:30|main.un2_sumb_38[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			CASCADE
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":66:18:66:30|main.un2_sumb_37[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":56:16:56:28|loop3.un12_sum_82[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":56:16:56:28|loop5.un20_sum_78[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":56:16:56:28|loop5.un20_sum_77[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":56:16:56:28|loop6.un24_sum_74[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":56:16:56:28|loop3.un12_sum_81[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":56:16:56:28|loop7.un28_sum_70[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":56:16:56:28|loop7.un28_sum_69[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":56:16:56:28|loop9.un36_sum_66[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":56:16:56:28|loop6.un24_sum_73[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":56:16:56:28|loop10.un40_sum_62[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":56:16:56:28|loop10.un40_sum_61[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":56:16:56:28|loop11.un44_sum_58[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":56:16:56:28|loop11.un44_sum_57[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":56:16:56:28|loop12.un48_sum_54[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+"d:\my projects\soc\simulation2\otsu2.vhd":56:16:56:28|loop12.un48_sum_53[47:0]
+----------------------------
+AREG			0
+BREG			0
+CREG			0
+MREG			0
+PREG			0
+CARRYINREG		0
+CARRYINSELREG	0
+OPMODEREG		0
+B_INPUT			DIRECT
+ACASCREG		0
+BCASCREG		0
+MULTCARRYINREG	1
+ALUMODEREG		0
+A_INPUT			DIRECT
+USE_MULT		MULT
+USE_SIMD		ONE48
+----------------------------
+
+#### END OF DSP48 DETAILED REPORT ####
+
+
+##### END OF AREA REPORT #####]
+
